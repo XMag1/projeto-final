@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+
+img{
+    width: 300px;
+    height: 450px;
+    border-radius: 15px;
+}
+.site-pessoal{
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+.xenia-resumo{
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+}
+ul{
+    text-align: center;
+    list-style-type: none;
+}
+a{
+    text-align: center;
+}
+.xenia-contato{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+
+}
